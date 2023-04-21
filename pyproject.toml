@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "openapi-embeddings-based-search-example"
+version = "0.1.0"
+description = ""
+authors = ["Makoto Yoshioka <y.mako2@gmail.com>"]
+readme = "README.md"
+packages = [{include = "openapi_embeddings_based_search_example"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+openai = "^0.27.4"
+pandas = "^2.0.0"
+tiktoken = "^0.3.3"
+python-dotenv = "^1.0.0"
+scipy = "^1.10.1"
+mwclient = "^0.10.1"
+mwparserfromhell = "^0.6.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
