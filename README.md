@@ -17,6 +17,16 @@
 $ poetry  install
 ```
 
+- Create an env file and set the API key.
+
+```bash
+$ touch .env
+
+# Edit env file
+OPENAI_API_KEY=****************
+
+```
+
 - Creates a data set. When completed, a csv file of `winter_olympics_2022_jp.csv` will be saved.(It will take a few minutes to complete.)
 
 ```bash
