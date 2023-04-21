@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Makoto Yoshioka <y.mako2@gmail.com>"]
 readme = "README.md"
-packages = [{include = "openapi_embeddings_based_search_example"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
