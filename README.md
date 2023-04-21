@@ -7,7 +7,7 @@
 
 ## Description
 
-- The Embedding dataset is created by retrieving data from the Japanese Wikipedia site. Please refer to the [Openapi site](https://github.com/openai/openai-cookbook/blob/793384ff3bfe30be9479e24ab93ec2a6b4fa9ff8/examples/Embedding_Wikipedia_articles_for_search.ipynb) for details.
+- Embeddings are created by retrieving data from the Japanese Wikipedia site. Please refer to the [Openapi site](https://github.com/openai/openai-cookbook/blob/793384ff3bfe30be9479e24ab93ec2a6b4fa9ff8/examples/Embedding_Wikipedia_articles_for_search.ipynb) for details.
 
 ## Getting Started
 
