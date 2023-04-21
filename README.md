@@ -42,8 +42,13 @@ $ poetry run python main.py
 - It is displayed like this.The first answer is incorrect; the second is correct.
 
 ```
-男子スノーボードハーフパイプで金メダルをもらった選手は誰ですか?
-2022年北京オリンピックの男子スノーボードハーフパイプで金メダルを獲得した選手は、日本の平岡卓（Taku Hiraoka）選手です。
-2022年北京オリンピックの男子スノーボードハーフパイプで金メダルをもらった選手は平野歩夢（日本）です。
+# Auestion
+2022年の北京オリンピックで男子スノーボードハーフパイプの金メダルをもらった選手は誰ですか?
+
+# Results of the question without embeddings
+2022年の北京オリンピックはまだ開催されていないため、男子スノーボードハーフパイプの金メダリストはまだ決まっていません。
+
+# Results using the embeddings
+2022年の北京オリンピックで男子スノーボードハーフパイプの金メダルをもらった選手は平野歩夢です。
 ```
 

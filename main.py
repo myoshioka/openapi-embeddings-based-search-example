@@ -107,7 +107,7 @@ def main():
     openai.api_key = os.environ["OPENAI_API_KEY"]
     print('start')
 
-    query = '男子スノーボードハーフパイプで金メダルをもらった選手は誰ですか?'
+    query = '2022年の北京オリンピックで男子スノーボードハーフパイプの金メダルをもらった選手は誰ですか?'
     print(query)
 
     response = openai.ChatCompletion.create(
