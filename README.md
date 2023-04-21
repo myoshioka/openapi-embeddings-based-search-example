@@ -42,7 +42,7 @@ $ poetry run python main.py
 - It is displayed like this.The first answer is incorrect; the second is correct.
 
 ```
-# Auestion
+# Question
 2022年の北京オリンピックで男子スノーボードハーフパイプの金メダルをもらった選手は誰ですか?
 
 # Results of the question without embeddings
